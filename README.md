@@ -1,4 +1,4 @@
-## Olá, eu sou o Henrique Mendes
+## Olá, sou o Henrique Mendes
 Formado em Análise e Desenvolvimento de Sistemas.
 
 <!--
