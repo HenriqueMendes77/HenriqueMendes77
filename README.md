@@ -5,7 +5,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMendes77&show_icons=true&theme=transparent&text_color=fff&title_color=ff4400&icon_color=ff4400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMendes77&title_color=ff4400&text_color=fff&theme=transparent&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMendes77&title_color=ff4400&text_color=fff&theme=transparent&layout=compact&langs_count=8"/>
 </div>
 
 ## 💻 Linguagens de Programação
